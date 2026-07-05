@@ -16,28 +16,22 @@ Building software that solves real-world problems through continuous learning, c
 
 ## 👩🏽‍💻 About Me
 
+💼 Software Development Graduate with industry experience building production applications using C#, .NET, Blazor, Python, and Django
+
 I'm an Information Technology graduate currently completing my **Advanced Diploma in Computer Science (Part-Time)** at **Tshwane University of Technology**.
 
 I enjoy building scalable software solutions using **C#, .NET, Blazor, Python, and Django**, while continuously expanding my knowledge in **Artificial Intelligence**, **Machine Learning**, **Cloud Computing**, and **Modern Software Engineering**.
 
 I enjoy solving problems, learning new technologies, and contributing to projects that create real business value.
 
----
-
-## 🎓 Education
-
-**Advanced Diploma in Computer Science (Part-Time)** *(NQF Level 7)*
-
-Tshwane University of Technology
-
-*Final Year • Expected Completion: December 2026*
 
 ---
 
-**National Diploma in Information Technology (Software Development)**
+## 👩‍💻 Education
 
-Tshwane University of Technology
+🎓 Advanced Diploma in Computer Science (NQF Level 7) — *Expected December 2026*
 
+🎓 National Diploma in Information Technology (Software Development) ** *NQF 6*
 ---
 
 ## 🚀 Career Interests
@@ -58,9 +52,10 @@ Tshwane University of Technology
 ### Languages
 
 - C#
+- C++
 - Python
-- JavaScript
 - SQL
+- Java Enterprise
 
 ### Frameworks
 
@@ -73,13 +68,13 @@ Tshwane University of Technology
 
 - PostgreSQL
 - SQL Server
-- SQLite
 
 ### Tools
 
 - Git
 - GitHub
 - Azure DevOps
+- NetBeans
 - Visual Studio
 - VS Code
 - Postman
@@ -97,9 +92,13 @@ Tshwane University of Technology
 ## 🌱 Currently Learning
 
 - ASP.NET Core MVC
+- AI Engineering
+- Azure AI
+- Machine Learning
+- Clean Architecture
+- CI/CD
 - Entity Framework Core
 - Clean Architecture
-- Azure AI
 - OpenAI API
 - Semantic Kernel
 - Retrieval-Augmented Generation (RAG)
